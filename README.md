@@ -1,4 +1,4 @@
-Rizal Muhammed
+Rizal Muhammed\n
 I am a data scientist
 
 
