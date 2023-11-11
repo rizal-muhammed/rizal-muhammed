@@ -1,5 +1,5 @@
-Rizal Muhammed\n
-I am a data scientist
+Rizal Muhammed.  
+I am a data scientist.  
 
 
 ### Reach me out📱
